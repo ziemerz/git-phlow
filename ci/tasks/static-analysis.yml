@@ -9,4 +9,4 @@ inputs:
 - name: git-phlow
 
 run:
-  path: git-phlow/ci/scripts/tests.sh
+  path: git-phlow/ci/cover/tests.sh
